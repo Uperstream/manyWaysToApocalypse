@@ -1,0 +1,8 @@
+Sector,Indicator,Unit,Entity,Year,Variable,CO,COm
+Macro,Emissions per capita,tCO2e / cap,World,2020,2_degree_min,2.55,7.27
+Macro,Emissions per capita,tCO2e / cap,World,2030,2_degree_min,2.22,7.22
+Macro,Emissions per capita,tCO2e / cap,World,2040,2_degree_min,1.87,6.05
+Macro,Emissions per capita,tCO2e / cap,World,2050,2_degree_min,1.38,3.66
+
+
+
